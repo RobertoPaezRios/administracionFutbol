@@ -1,0 +1,10 @@
+C:\Users\Roberto\source\repos\administracionFutbolistica\bin\Debug\administracionFutbolistica.exe.config
+C:\Users\Roberto\source\repos\administracionFutbolistica\bin\Debug\administracionFutbolistica.exe
+C:\Users\Roberto\source\repos\administracionFutbolistica\bin\Debug\administracionFutbolistica.pdb
+C:\Users\Roberto\source\repos\administracionFutbolistica\obj\Debug\administracionFutbolistica.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\administracionFutbolistica\obj\Debug\administracionFutbolistica.Form1.resources
+C:\Users\Roberto\source\repos\administracionFutbolistica\obj\Debug\administracionFutbolistica.Properties.Resources.resources
+C:\Users\Roberto\source\repos\administracionFutbolistica\obj\Debug\administracionFutbolistica.csproj.GenerateResource.cache
+C:\Users\Roberto\source\repos\administracionFutbolistica\obj\Debug\administracionFutbolistica.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\administracionFutbolistica\obj\Debug\administracionFutbolistica.exe
+C:\Users\Roberto\source\repos\administracionFutbolistica\obj\Debug\administracionFutbolistica.pdb
